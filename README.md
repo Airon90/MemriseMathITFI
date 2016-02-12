@@ -16,4 +16,4 @@ All'interno di ogni file il testo deve essere formattato nel seguente modo: ```I
 # Licenza
 Ogni contributo a questo repository deve essere fatto rispettando la [licenza CC0](https://github.com/Airon90/MemriseMathITFI/blob/master/LICENSE)
 
-# [Vai al corso](https://github.com/Airon90/MemriseMathITFI)
+# [Vai al corso](http://www.memrise.com/course/951693/matematiikkamatematica)
